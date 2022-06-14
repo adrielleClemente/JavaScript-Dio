@@ -1,0 +1,60 @@
+body{
+    color: rgb(48, 40, 40);
+    font-family: 'Courier New', Courier, monospace ;
+    border: 5px solid black;
+    border-radius: 30px;
+    max-width: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+    width: 450px;
+    margin-top: 10%;
+
+
+}
+
+.corTexto{
+    color: brown;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium';
+    text-transform: lowercase;
+}
+
+html{
+    background: #F2D3D3;
+}
+
+.corCont{
+    color:#4B0707;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30;
+    text-transform: uppercase;
+
+}
+
+.cor3{
+    color: black;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 24;
+    text-transform: capitalize;
+}
+
+.menos{
+    font-weight: bolder;
+    font-size: 23px;
+    color: red;
+
+}
+
+.mais{
+    font-weight: bolder;
+    font-size: 20px;
+    color: green;
+}
+
+.numero{
+    font-weight: bolder;
+    font-size: 40px;
+    color:black;
+
+}
